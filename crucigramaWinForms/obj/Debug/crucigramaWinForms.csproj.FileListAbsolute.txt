@@ -1,0 +1,10 @@
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\bin\Debug\crucigramaWinForms.exe.config
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\bin\Debug\crucigramaWinForms.exe
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\bin\Debug\crucigramaWinForms.pdb
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.csprojAssemblyReference.cache
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.PantallaScrabble.resources
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.Properties.Resources.resources
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.csproj.GenerateResource.cache
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.exe
+C:\Users\SQLGABI\source\repos\crucigramaWinForms\crucigramaWinForms\obj\Debug\crucigramaWinForms.pdb
